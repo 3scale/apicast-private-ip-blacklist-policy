@@ -1,0 +1,11 @@
+{
+  "$schema": "http://apicast.io/policy-v1/schema#manifest#",
+  "name": "Upstream Private IP blacklist",
+  "summary": "Deny connecting to private IP address ranges.",
+  "description": "Deny connecting to private IP address ranges.",
+  "version": "0.1",
+  "configuration": {
+    "type": "object",
+    "properties": { }
+  }
+}
